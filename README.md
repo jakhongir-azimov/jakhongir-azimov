@@ -10,5 +10,5 @@
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:azimovjahongir19@gmail.com'>azimovjahongir19@gmail.com</a>
+   📫 How to reach me: <a href='https://mail.google.com/mail/u/0/#inbox'>azimovjahongir19@gmail.com</a>
 </p>
