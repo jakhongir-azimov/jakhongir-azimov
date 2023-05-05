@@ -1,2 +1,3 @@
-### <h1 style="color:blue;">Hi, I'm <a href="">Jakhongir</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"> <h1>
+### <h1 align="center">Hi, I'm <a href="#" target="_blank">Jakhongir</a>
+  <img alt="Hello!" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"><h1>
 
